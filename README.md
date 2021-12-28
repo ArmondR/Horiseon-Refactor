@@ -31,5 +31,5 @@ ________________
 
 ___________________
 
-![Top of Website](./assets/css/images/Top.png)
+![Top of Website](/assets/images/Top.png)
 
