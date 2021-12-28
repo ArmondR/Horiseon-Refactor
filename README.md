@@ -34,3 +34,5 @@ ________________
 _________________
 
 <img src="Top.jpeg">
+
+![Middle of Website](Middle.png)
