@@ -25,11 +25,8 @@ ________________
 
 [Link to Deployed Website] (https://armondr.github.io/Horiseon-Refactor/)
 
-[Link to Code Repository] (https://github.com/ArmondR/Horiseon-Refactor.git)
+**[Link to Code Repository](https://github.com/ArmondR/Horiseon-Refactor.git)**
 
-# Screenshots
 
-___________________
 
-![Top of Website](/Horiseon-Refactor/Top.png)
 
