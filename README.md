@@ -2,13 +2,13 @@
 
 ______________________
 
-# Description
+## Description
 
 ______________
 
 This project is a code refactor for the Horiseon website home page. The objective behind this project is to rework the pre-composed code to be more accessible, legible and efficient. The changes made to the code do not effect the visual presentation of the website's home page.
 
-# Changes Made
+### Changes Made
 
 ______________
 
@@ -19,7 +19,7 @@ ______________
 - Document is given a concise title for search engine optimization.
 - Comments were added to both the HTML and CSS documents.
 
-# Links
+### Links
 
 ________________
 
@@ -29,3 +29,8 @@ ________________
 
 
 
+### Screenshots
+
+_________________
+
+<img src="Top.jpeg">
