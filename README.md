@@ -20,6 +20,13 @@ ______________
 - Comments were added to both the HTML and CSS documents.
 - Corrected nav link functionality.
 
+### Usage
+
+_________
+
+The website was deployed through guthub and can be accessed via the provided link below.
+It is not configured for smaller screen displays. To view website with proper display proportions, it is recommended to view using a larger screen as opposed to a smaller one.
+
 ### Links
 
 ________________
@@ -27,8 +34,6 @@ ________________
 [Link to Deployed Website](https://armondr.github.io/Horiseon-Refactor/)
 
 **[Link to Code Repository](https://github.com/ArmondR/Horiseon-Refactor.git)**
-
-
 
 ### Screenshots
 
