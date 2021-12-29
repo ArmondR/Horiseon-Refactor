@@ -18,6 +18,7 @@ ______________
 - Heading attributes fall in sequential order.  
 - Document is given a concise title for search engine optimization.
 - Comments were added to both the HTML and CSS documents.
+- Corrected nav link functionality.
 
 ### Links
 
@@ -36,3 +37,17 @@ _________________
 <img src="Top.jpeg">
 
 ![Middle of Website](Middle.png)
+
+![Bottom of Website](Bottom.png)
+
+### References Used 
+
+*****
+
+- <https://www.markdownguide.org/basic-syntax/>
+
+- <https://stackoverflow.com/questions/27706476/markdown-image-not-shown>
+
+- <https://www.w3schools.com/html/html5_semantic_elements.asp>
+
+
