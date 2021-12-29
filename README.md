@@ -24,7 +24,7 @@ ______________
 
 _________
 
-The website was deployed through guthub and can be accessed via the provided link below.
+The website was deployed through github and can be accessed via the provided link below.
 It is not configured for smaller screen displays. To view website with proper display proportions, it is recommended to view using a larger screen as opposed to a smaller one.
 
 ### Links
